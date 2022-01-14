@@ -17,11 +17,6 @@ function setGradient() {
 };
 
 
-
-// function randomColor() {
-// 	return '#' + Math.
-// }
-
 //Event listeners to grab color input value
 color1.addEventListener("input", setGradient);
 color2.addEventListener("input", setGradient);
